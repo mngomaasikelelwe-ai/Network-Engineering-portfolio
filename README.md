@@ -14,6 +14,7 @@ I am an aspiring cybersecurity and network engineering professional with a stron
 - Penetration Testing Project
 - CySA+ Security Analysis
 - CASP+ Security Architecture
+- C++ (introduction to programing)
 
 ## 🌍 Live Website
 
