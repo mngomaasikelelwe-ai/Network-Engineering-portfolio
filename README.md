@@ -16,7 +16,7 @@ I am an aspiring cybersecurity and network engineering professional with a stron
 - CASP+ Security Architecture
 
 ## 🌍 Live Website
-https://mngomaasikelelwe-ai.github.io/Network-Engineering-portfolio
+
 
 ## 📫 Contact
 - Email: awonkeasikelewe@gmail.com /mngomaasikelelwe@gmail.com 
